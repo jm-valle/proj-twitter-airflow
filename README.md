@@ -1,5 +1,5 @@
-# proj-twitter-airflow
-Simple pipeline connecting Twitter API, Airflow and AWS
+# proj-vagalume-airflow
+Simple pipeline connecting Vagalume API, Airflow and AWS
 
 The first step is to create an Python Script that will get songs lyrics from Vagalume. This was done providing artist and song name.
 Second, we created an Apache Airflow DAG with the function above.
